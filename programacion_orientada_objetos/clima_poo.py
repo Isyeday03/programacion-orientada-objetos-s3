@@ -1,6 +1,4 @@
 # PROGRAMACIÓN ORIENTADA A OBJETOS - PROMEDIO SEMANAL DEL CLIMA
-# Autor: [Tu nombre]
-# Fecha: Junio 2025
 # Descripción: Programa que calcula el promedio semanal de temperaturas usando POO
 
 from datetime import datetime

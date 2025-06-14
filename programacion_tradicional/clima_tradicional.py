@@ -1,6 +1,4 @@
 # PROGRAMACIÓN TRADICIONAL - PROMEDIO SEMANAL DEL CLIMA
-# Autor: [Tu nombre]
-# Fecha: Junio 2025
 # Descripción: Programa que calcula el promedio semanal de temperaturas usando funciones
 
 # Lista de días de la semana para mejor presentación
